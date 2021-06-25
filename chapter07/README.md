@@ -1,0 +1,1 @@
+SpringBoot整合RabbitMQ 并且全注解开发。

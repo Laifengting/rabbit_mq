@@ -1,0 +1,34 @@
+#===================================== 基本配置 =====================================#
+# 服务端口号
+server:
+    port: 8085
+
+spring:
+    #===================================== 数据源配置 =====================================#
+    datasource:
+        url: jdbc:mysql://localhost:3308/meituan?allowMultiQueries=true&rewriteBatchedStatements=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false&nullCatalogMeansCurrent=true
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: root
+        password: 201314
+
+    #===================================== RabbitMQ 配置 =====================================#
+    rabbitmq:
+        username: admin
+        password: admin
+        virtual-host: /
+        # 单机配置
+        # host: 192.168.247.191
+        # port: 5672
+        # 集群配置
+        addresses: 192.168.247.191:5672
+        listener:
+            simple:
+                # 开启手动 ack ，让程序去控制 QM 的消息的重发、删除和转移
+                acknowledge-mode: manual
+                retry:
+                    enabled: true # 允许重试
+                    max-attempts: 10 # 最大重试次数
+                    initial-interval: 2000ms # 重试时间间隔
+logging:
+    level:
+        root: warn

@@ -1,0 +1,320 @@
+2021-05-25 14:43:19.971 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 9688 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 14:43:19.972 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 14:43:20.693 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:43:22.282 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 14:43:22.320 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#7a22a3c2:0/SimpleConnection@41ffaeb8 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 13418]
+2021-05-25 14:43:22.364 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.615 seconds (JVM running for 3.179)
+2021-05-25 14:43:22.498 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 14:43:23.361 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 14:43:23.370 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:50:28.366 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 19740 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 14:50:28.367 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 14:50:29.084 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:50:30.670 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 14:50:30.707 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#f4cfd90:0/SimpleConnection@43f0c2d1 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 13496]
+2021-05-25 14:50:30.745 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.598 seconds (JVM running for 3.135)
+2021-05-25 14:50:30.875 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 14:50:31.741 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 14:50:31.747 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:51:36.831 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 6848 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 14:51:36.832 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 14:51:37.705 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:51:39.342 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 14:51:39.382 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#184dbacc:0/SimpleConnection@20011bf [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 13513]
+2021-05-25 14:51:39.423 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.819 seconds (JVM running for 3.399)
+2021-05-25 14:51:39.563 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 14:51:40.419 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 14:51:40.428 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:53:58.256 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 6488 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 14:53:58.257 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 14:53:59.100 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 14:54:00.693 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 14:54:00.729 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#f4cfd90:0/SimpleConnection@43f0c2d1 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 13575]
+2021-05-25 14:54:00.770 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.746 seconds (JVM running for 3.31)
+2021-05-25 14:54:00.909 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 14:54:01.765 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 14:54:01.771 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:01:06.093 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 10712 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:01:06.094 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:01:06.881 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:01:08.513 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:01:08.552 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#184dbacc:0/SimpleConnection@7a1f45ed [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4320]
+2021-05-25 15:01:08.623 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.759 seconds (JVM running for 3.365)
+2021-05-25 15:01:08.764 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:01:09.593 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:01:09.597 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:01:09.761 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:01:09.765 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:01:10.619 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:01:10.627 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:02:12.410 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 18956 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:02:12.411 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:02:13.142 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:02:14.707 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:02:14.818 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#184dbacc:0/SimpleConnection@7a1f45ed [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4346]
+2021-05-25 15:02:14.893 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.704 seconds (JVM running for 3.262)
+2021-05-25 15:02:15.028 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:02:15.855 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:02:15.858 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:02:16.026 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:02:16.029 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:02:16.889 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:02:16.897 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:03:59.442 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 17544 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:03:59.443 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:04:00.289 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:04:01.903 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:04:01.940 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#3701e6e4:0/SimpleConnection@ca93621 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4374]
+2021-05-25 15:04:02.009 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.792 seconds (JVM running for 3.364)
+2021-05-25 15:04:02.137 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:02.979 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:02.983 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:03.134 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:03.138 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:04.006 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:04.012 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:04:34.942 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 15892 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:04:34.943 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:04:35.779 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:04:37.388 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:04:37.430 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#4b2d44bc:0/SimpleConnection@6ab7ce48 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4383]
+2021-05-25 15:04:37.468 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.749 seconds (JVM running for 3.304)
+2021-05-25 15:04:37.595 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:38.464 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:38.465 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:38.596 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:38.597 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:04:39.596 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:04:39.605 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:07:39.698 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 12600 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:07:39.699 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:07:40.426 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:07:42.072 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:07:42.113 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#4b2d44bc:0/SimpleConnection@6ab7ce48 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4432]
+2021-05-25 15:07:42.152 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.668 seconds (JVM running for 3.208)
+2021-05-25 15:07:42.287 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:07:43.288 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:07:43.289 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:07:44.149 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:07:44.150 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:07:45.148 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:07:45.156 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:09:23.981 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 19144 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter07)
+2021-05-25 15:09:23.982 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:09:24.843 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:09:26.393 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:09:26.495 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#6e495b48:0/SimpleConnection@588307f7 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 4454]
+2021-05-25 15:09:26.537 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.786 seconds (JVM running for 3.348)
+2021-05-25 15:09:26.667 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:09:27.530 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:09:27.531 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:09:27.668 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:09:27.669 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:09:28.669 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:09:28.676 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:45:18.325 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 19600 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 15:45:18.326 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:45:19.611 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:45:20.619 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:45:20.656 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#6401d0a0:0/SimpleConnection@38a1a26 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 5118]
+2021-05-25 15:45:20.659 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-cPkg7uuxTVqQOAAvkt9lSQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:45:20.659 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-uhMuAOW3RAmzOkmHU7RNQA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:45:20.708 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.602 seconds (JVM running for 3.204)
+2021-05-25 15:45:20.837 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:45:21.698 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:45:21.699 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:45:22.697 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:45:22.698 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:45:22.700 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:45:22.702 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:45:22.839 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:45:22.841 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:45:23.840 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:45:23.846 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:53:37.395 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 3084 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 15:53:37.395 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:53:38.723 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:53:39.739 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:53:39.777 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#11e33bac:0/SimpleConnection@2eb917d0 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 5241]
+2021-05-25 15:53:39.780 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-_lPp66qqRgqwEN02JNrP5Q) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:53:39.781 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-_4QQJt1GQUu6dUVY6JvdQw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:53:39.781 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-FGyye-tSTjGsXaWt0XBcVg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:53:39.781 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-EqP0f-5yS6iX7I7zzIgqxQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:53:39.841 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.666 seconds (JVM running for 3.246)
+2021-05-25 15:53:39.977 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.822 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.823 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.824 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.824 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.825 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.827 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.829 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.831 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.832 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.834 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.835 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.837 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:53:40.975 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:53:40.984 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:53:57.939 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 8140 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 15:53:57.940 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 15:53:59.241 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 15:54:00.254 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 15:54:00.292 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#27a7ef08:0/SimpleConnection@1c5c616f [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 5249]
+2021-05-25 15:54:00.295 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-oNd84hndR2CqibGt5tyPpw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:54:00.295 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-PUol90q_RXChhOwCh-0tyw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:54:00.295 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-f5Ag7vlzRzCTd49DkSHcrg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:54:00.295 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-otqVYG8CQSKiKNAcxV1RBA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 15:54:00.348 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.622 seconds (JVM running for 3.184)
+2021-05-25 15:54:00.479 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:01.333 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:01.333 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:01.335 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:01.335 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:01.336 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:01.338 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:01.339 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:01.340 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:02.339 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:02.342 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:02.479 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:02.482 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 15:54:03.479 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 15:54:03.486 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 16:07:30.643 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 17496 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 16:07:30.644 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 16:07:31.948 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 16:07:32.973 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 16:07:33.013 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#289778cd:0/SimpleConnection@73437222 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 5366]
+2021-05-25 16:07:33.015 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-gbx7ZrrMRiSNeuqI1RklxA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.016 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-HQjFN8zaSaqL4qPw4CrNOA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.016 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-wYzeaT77TJSovQEfMw3UPA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.016 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-eFt6_6s6TayEq8fVvPn9-w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.016 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-wvii9CJGR1mA-gasS8BZ_w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.016 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-4YlwR1mMTn-IrdPGvyoNsw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:07:33.078 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.653 seconds (JVM running for 3.222)
+2021-05-25 16:07:33.211 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:34.059 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:34.060 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:35.060 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:35.061 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:35.064 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:35.066 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:36.064 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:36.067 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:36.067 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:36.070 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:37.069 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:37.071 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:37.072 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:37.074 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:37.074 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:37.076 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:07:37.076 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:07:37.082 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 16:08:15.038 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 10480 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 16:08:15.039 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 16:08:16.359 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 16:08:17.386 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 16:08:17.422 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#27a7ef08:0/SimpleConnection@1c5c616f [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 5380]
+2021-05-25 16:08:17.424 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-5qyihi2KR0GNrJW3oErqQQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.424 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-kzeBlU5BS7yMqpa2hqUzUA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.424 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-RJdD-3bmRh65x7UluWMUYQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.424 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-_BGR65F3TM6oQ4zyjktynQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.424 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-1ylCtqRPS5-iKc9kHrHFdg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.425 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Ci36oqzaTnmtOsAFNm2GjQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 16:08:17.484 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.659 seconds (JVM running for 3.233)
+2021-05-25 16:08:17.608 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:18.468 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:18.469 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:19.471 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:19.471 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:19.473 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:19.474 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:20.473 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:20.476 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:20.476 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:20.479 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:20.480 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:20.482 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:21.480 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:21.483 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:21.611 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:21.613 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 16:08:22.610 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 16:08:22.618 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-25 20:31:44.918 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 3284 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 20:31:44.919 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 20:31:46.218 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 20:31:47.247 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:31:47.294 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#280e8a1a:0/SimpleConnection@1c6c6f24 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3919]
+2021-05-25 20:31:47.296 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-djMEn0P2Ts2ZVkL7UG1oYg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-qtfORkfETFmwhTzo7dfvLg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen--iVlIae_TDG4cTXC7eoPww) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Df9IrmmhToeJeCUmlvpIUg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jQUaud02RU2dQMxxwXgu0w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-tFpI-Z1mRIaA24xbndz5DA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.297 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jSMi379ORAKYKjjTWee3Nw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:47.319 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:31:47.321 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#280e8a1a:1/SimpleConnection@1d0a61c8 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3920]
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-djMEn0P2Ts2ZVkL7UG1oYg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-qtfORkfETFmwhTzo7dfvLg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen--iVlIae_TDG4cTXC7eoPww) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Df9IrmmhToeJeCUmlvpIUg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jQUaud02RU2dQMxxwXgu0w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-tFpI-Z1mRIaA24xbndz5DA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.325 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jSMi379ORAKYKjjTWee3Nw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:48.328 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:31:48.331 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#280e8a1a:2/SimpleConnection@35e8316e [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3921]
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-djMEn0P2Ts2ZVkL7UG1oYg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-qtfORkfETFmwhTzo7dfvLg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen--iVlIae_TDG4cTXC7eoPww) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Df9IrmmhToeJeCUmlvpIUg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jQUaud02RU2dQMxxwXgu0w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-tFpI-Z1mRIaA24xbndz5DA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.332 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jSMi379ORAKYKjjTWee3Nw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:50.335 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:31:50.338 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#280e8a1a:3/SimpleConnection@6cd166b8 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3924]
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-djMEn0P2Ts2ZVkL7UG1oYg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-qtfORkfETFmwhTzo7dfvLg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen--iVlIae_TDG4cTXC7eoPww) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Df9IrmmhToeJeCUmlvpIUg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jQUaud02RU2dQMxxwXgu0w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-tFpI-Z1mRIaA24xbndz5DA) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.339 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-jSMi379ORAKYKjjTWee3Nw) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:31:54.342 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:31:54.345 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#280e8a1a:4/SimpleConnection@5fac521d [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3925]
+2021-05-25 20:33:12.187 [main] INFO  com.lft.mq.TestRabbitMQ - Starting TestRabbitMQ on 2020-LEE with PID 8032 (started by Administrator in G:\WorkSpace\Java\IJCode\rabbit_mq\chapter08)
+2021-05-25 20:33:12.188 [main] INFO  com.lft.mq.TestRabbitMQ - The following profiles are active: dev
+2021-05-25 20:33:13.492 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-25 20:33:14.524 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Attempting to connect to: [192.168.56.188:5672]
+2021-05-25 20:33:14.561 [main] INFO  o.s.a.rabbit.connection.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#4cb0a000:0/SimpleConnection@3f985a86 [delegate=amqp://ems@192.168.56.188:5672//ems, localPort= 3942]
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Eb5uSmC6SWyG-R6XKS-9Tg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-L86cUjVvSK-qSdvNRlxvzQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-kMJDXHxlTh-kvKlu98eIOg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-fbpJ27aPSb6nUH2P5NodeQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-SSt4ZVGzT6i772HwF1Cv6w) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-MGaM6COTSuyoumQecC1RZg) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.564 [main] INFO  org.springframework.amqp.rabbit.core.RabbitAdmin - Auto-declaring a non-durable, auto-delete, or exclusive Queue (spring.gen-Omh60lOTRzS-uW6M146loQ) durable:false, auto-delete:true, exclusive:true. It will be redeclared if the broker stops and is restarted while the connection factory is alive, but all messages will be lost.
+2021-05-25 20:33:14.633 [main] INFO  com.lft.mq.TestRabbitMQ - Started TestRabbitMQ in 2.66 seconds (JVM running for 3.215)
+2021-05-25 20:33:14.758 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:15.611 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:15.611 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:15.613 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:15.614 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:15.615 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:15.617 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:16.616 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:16.618 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:16.618 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:16.620 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:16.620 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:16.622 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:16.623 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:16.625 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:17.624 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:17.626 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:17.627 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:17.629 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Waiting for workers to finish.
+2021-05-25 20:33:17.760 [SpringContextShutdownHook] INFO  o.s.a.r.listener.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+2021-05-25 20:33:17.767 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
