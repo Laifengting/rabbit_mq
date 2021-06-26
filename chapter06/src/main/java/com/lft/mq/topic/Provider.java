@@ -40,19 +40,13 @@ public class Provider {
             
             // 发送消息
             channel.basicPublish(MQConstants.EXCHANGE_NAME_2, "user.info", MessageProperties.PERSISTENT_TEXT_PLAIN, (
-                    "Hello" +
-                            " " +
-                            "Topic Type Info Message ")
+                    "Hello Topic Type Info Message ")
                     .getBytes());
             channel.basicPublish(MQConstants.EXCHANGE_NAME_2, "user.warn.lft", MessageProperties.PERSISTENT_TEXT_PLAIN, (
-                    "Hello" +
-                            " " +
-                            "Topic Type Warn Message ")
+                    "Hello Topic Type Warn Message ")
                     .getBytes());
             channel.basicPublish(MQConstants.EXCHANGE_NAME_2, "user.error.lft", MessageProperties.PERSISTENT_TEXT_PLAIN, (
-                    "Hello" +
-                            " " +
-                            "Topic Type Error Message ")
+                    "Hello Topic Type Error Message ")
                     .getBytes());
         } catch (IOException e) {
             e.printStackTrace();
