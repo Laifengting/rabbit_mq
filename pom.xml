@@ -29,6 +29,9 @@
         <module>chapter11-TTL-queue</module>
         <module>chapter12-TTL-queue-plugin</module>
         <module>chapter13-publishconfirm</module>
+        <module>chapter14-backup-exchange</module>
+        <module>chapter15-priority-queue</module>
+        <module>chapter16-lazy-queue</module>
     </modules>
 
     <name>rabbit_mq</name>
